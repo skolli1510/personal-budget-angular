@@ -37,7 +37,7 @@ nav ul li a:hover  {
     color: #4d5791;
 }
 
-div.hero {
+section.hero {
     height: 350px;
     background-color: #b4c6f0;
     background-image: url('bg.png');
