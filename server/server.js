@@ -22,9 +22,6 @@ const budget = {
     }
 ]};
 
-// app.get('/hello', (req, res) => {
-//     res.send("Hello World!");
-// });
 
 app.get('/budget', (req, res) => {
     res.send(data);
